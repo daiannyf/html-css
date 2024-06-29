@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1, h2 {
+    font: italic bolder 3em 'Work Sans', sans-serif
+}
+
+body {
+    font-family: 'work sans';
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 1em;
+
+}

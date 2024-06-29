@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #49A9F4;
+}
+
+h2 {
+    text-decoration: underline;
+    
+}
+
+h2#principal{
+    text-align: right;
+}
+body {
+    background-color: #9BCEF5;
+    color: white;
+    font: bold 1em verdana, geneva, tahoma, sans-serif;
+
+    
+}
+
+.address {
+    color: #4974F5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
