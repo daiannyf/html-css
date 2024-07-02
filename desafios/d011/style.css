@@ -10,3 +10,13 @@ img {
     min-width: 10%;
     max-width: 100%;
 }
+
+header {
+    width: 2000px;
+    height: 400px;
+    background-image: url(imagens/wallpaper.jpg);
+}
+
+header > p {
+    text-align: center;
+}
